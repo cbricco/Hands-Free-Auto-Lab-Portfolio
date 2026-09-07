@@ -3,8 +3,8 @@
 ## Document role
 
 This document records permanent architecture and trust-boundary requirements,
-not current implementation status. Current milestones, gaps, and validation
-results belong in `PROJECT_STATUS.md`.
+not current implementation status. It intentionally does not attempt to track
+current milestones, gaps, or validation results.
 
 Auto Lab is a separate project. It must not weaken or bypass the approval
 semantics of the original Hands-Free repository. Model output is never
